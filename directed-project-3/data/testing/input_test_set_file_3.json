@@ -1,0 +1,4 @@
+[{"httpStatus":"400 Bad Request","httpMethod":"GET","errorMsg": "Invalid URL","transactionId": "WEEHKUHLFGFJG4","correlationId":"565YTHGU","timeStamp":"2020-01-01T00:00:01", "userName":"John","password":"fgf455c"},
+{"httpStatus":"401 Unauthorized","httpMethod":"GET","errorMsg":"Bad Credentials", "transactionId": "4654HFCGVDSU86","correlationId":"HFHFY56B","timeStamp":"2020-01-01T07:20:01","userName":"Kyle","password":"31gfy&"},
+{"httpStatus":"404 Not Found", "httpMethod":"PATCH","errorMsg": "Resource Not Found","transactionId": "113213FGHGJGU6","correlationId":"R656GFHF","timeStamp":"2020-01-01T07:39:01","userName":"Kevin"}
+]
